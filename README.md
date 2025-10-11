@@ -1,11 +1,39 @@
-- 👋 Hi, I’m @milanawood
-- 👀 I’m interested in innovative, fun js/react/next.js apps!
-- 💞️ I’m looking to collaborate on Next.js projects!
-- 📫 How to reach me milanawood on discord!
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I used to be a disney princess in California once upon a time! 
+# 👋 Hi, I’m Milana Wood  
 
-<!---
-milanawood/milanawood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Full-Stack Developer | Next.js · TypeScript · Tailwind · Sanity · Vercel**  
+🌴 Based in **Los Angeles, California**
+
+---
+
+### 🚀 About Me  
+I’m a full-stack engineer and creative technologist passionate about building **elegant, performant web applications** that make a real impact.  
+I specialize in the **Next.js + TypeScript + Tailwind + Sanity** stack — crafting clean, scalable, and SEO-friendly sites for modern brands and businesses.
+
+Before tech, I performed as a **Disney Princess in California** 👑 — now I bring that same sense of storytelling, precision, and creativity into my code.
+
+---
+
+### 🧠 Current Work
+- 🏡 **Private Real-Estate Tech Project** — building tools that simplify the selling process and connect homeowners with the right agents  
+- 💃 **Dance Education Harrogate** — reimagining a dance school’s digital experience using **Next.js + Sanity**  
+- 🌱 **STARS® UK R&D / Better Food for All** — supporting sustainable food innovation through data systems and automation  
+
+---
+
+### 🛠️ Tech Stack
+**Frontend:** Next.js, React, TypeScript, Tailwind CSS, Framer Motion  
+**Backend:** Node.js, Python (FastAPI), Prisma, SQL/Postgres, REST & GraphQL APIs  
+**CMS / Infra:** Sanity.io, Vercel, Render, Supabase, AWS, Docker  
+**Design:** Figma, Adobe XD, and a deep love for detail ✨  
+
+---
+
+### 💞️ Collaboration
+Open to collaborating on **Next.js**, **full-stack**, or **creative web** projects — especially those merging **tech, design, and real-world storytelling**.
+
+📫 **Reach me:** `@milanawood` on Discord  
+🌐 **Portfolio:** [mwwebdev.com](https://mwwebdev.com)  
+💬 **Let’s build something meaningful.**
+
+---
+
