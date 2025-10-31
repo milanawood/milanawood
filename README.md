@@ -9,7 +9,6 @@
 I’m a full-stack engineer and creative technologist passionate about building **elegant, performant web applications** that make a real impact.  
 I specialize in the **Next.js + TypeScript + Tailwind + Sanity** stack — crafting clean, scalable, and SEO-friendly sites for modern brands and businesses.
 
-Before tech, I performed as a **Disney Princess in California** 👑 — now I bring that same sense of storytelling, precision, and creativity into my code.
 
 ---
 
